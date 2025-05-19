@@ -1,4 +1,4 @@
-build/ 
-.gradle/ 
-.idea/ 
-*.class 
+".gradle/" 
+"build/" 
+".idea/" 
+"*.class" 
